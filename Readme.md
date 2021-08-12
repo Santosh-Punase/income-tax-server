@@ -1,7 +1,9 @@
-Prerequisite
-npm
-node
-mongodb
+# Income Tax Server
 
-Run the server
-npx nodemon
+### Prerequisite
+- npm
+- node
+- mongodb
+
+## Run the server
+`npx nodemon`
